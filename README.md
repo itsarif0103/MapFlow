@@ -1,2 +1,2 @@
 # MapFlow
-MapFlow- Suggest dynamic and interactive mapping features.
+MapFlow Web App- Suggest dynamic and interactive mapping features.
